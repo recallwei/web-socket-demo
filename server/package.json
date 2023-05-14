@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "type": "module",
+  "author": "Bruce Song <recall4056@gmail.com> (https://github.com/recallwei/)",
+  "scripts": {
+    "dev": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-ws": "^5.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
+}
